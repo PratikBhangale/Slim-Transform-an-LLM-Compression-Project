@@ -11,6 +11,7 @@ This project focuses on exploring and implementing techniques to optimize large 
 3. To access the full project, download it from github using the following link:
    - `https://github.com/PratikBhangale/Slim-Transform-Compressing-LLM-Models.git`
 4. Ensure GPU support is enabled for efficient training and testing of models.
+5. Insert your huggingface token in each of the libraries for loading the models.
 
 ---
 
